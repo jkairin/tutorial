@@ -12,6 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hola mundo JSP rama Manuel</h1>        
+        <h1>Hola mundo JSP rama Manuel</h1>  
+        <h1>Este es un nuevo titulo</h1> 
     </body>
 </html>
